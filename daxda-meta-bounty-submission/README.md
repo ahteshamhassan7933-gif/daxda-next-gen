@@ -71,6 +71,6 @@ python3 -m pytest ../tests/ -v
 | Recursion Level | Bounties Solved | Allocation | Verification State | Merkle Root Invariant |
 | :---: | :---: | :---: | :---: | :--- |
 | **Level 0 (Meta)** | 1 / 1 | **$25,000 USD** | ✅ **CERTIFIED** | Verified Base Invariants |
-| **Level 3 (Closed Manifold)** | 20 / 20 | **$280,000 USD** | ✅ **CERTIFIED** | `88776581e27186c7ebab...` ($\lambda_2 = 1.3820$) |
+| **Level 3 (Closed Manifold)** | 20 / 20 | **$280,000 USD** | ✅ **CERTIFIED** | `32c8cef7802a1fa86dc3...` ($\lambda_2 = 1.3820$) |
 | **Level 4 (Topological Singularity)** | 5 / 5 | **$160,000 USD** | ✅ **CERTIFIED** | `a687d3fed9d1c46e615d...` ($\lambda_2 = 1.3820$) |
 | **CUMULATIVE TOTAL** | **26 / 26** | **$465,000 USD** | ✅ **100% SOLVED** | **Topologically Closed** |
